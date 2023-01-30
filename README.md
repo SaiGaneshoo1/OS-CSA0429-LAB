@@ -37,4 +37,4 @@ With linked allocation, each file is a linked list of disk blocks; the disk bloc
 Construct a C program to simulate the First Come First Served disk scheduling algorithm.  
 Design a C program to simulate SCAN disk scheduling algorithm.
 Develop a C program to simulate C-SCAN disk scheduling algorithm.
-40. Illustrate the various File Access Permission and different types users in Linux.
+Illustrate the various File Access Permission and different types users in Linux.
